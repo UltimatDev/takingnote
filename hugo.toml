@@ -1,0 +1,4 @@
+baseURL = 'https://ultimatdev.github.io/'
+languageCode = 'en-us'
+title = 'Taking Note'
+theme = 'contrast-hugo'
